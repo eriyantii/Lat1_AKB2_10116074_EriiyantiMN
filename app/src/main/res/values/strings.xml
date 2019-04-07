@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Lat1_AKB2_10116074_EriyantiMN</string>
+    <string name="Monitory">Monitory Membantu Anda \n Mengontrol HP anak </string>
+    <string name="KK">Kode Keluarga</string>
+    <string name="AyahaBunda">Ketikan kode keluarga yang Ayah Bunda \n miliki disini</string>
+    <string name="KPKD">Dengan menekan tombol masuk berarti Anda menyetujui \n <b> Ketentuan Pengguna</b> dan <b> Kebijakan Data</b> kami</string>
+    <string name="Belumpunya">Belum punya kode keluarga?</string>
+    <string name="NP"> <b>Nama Panggilan Kamu</b></string>
+    <string name="Umur"><b>Umur Kamu</b></string>
+    <string name="Finish"><b> Beres! Sekarang kamu \n udah bisa ngecek \n penggunaan HP
+    mu \n tiap hari buat bantu kamu \n ngatur waktu :)</b></string>
+    <string name="A1">A1B2C3</string>
+
+</resources>
